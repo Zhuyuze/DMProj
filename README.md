@@ -1,3 +1,3 @@
-baseline_and_other_models包含了其他sklearn模型
+baseline_and_other_models contains other sklearn models
 
-classifiernetwork.pt是训练10代的nn模型
+classifiernetwork.pt is a NN model trained for 10 epochs
